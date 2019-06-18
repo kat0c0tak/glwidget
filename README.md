@@ -1,5 +1,8 @@
 # Use C++ Qt Widget in PyQt
 
+## Reference
+https://github.com/jazzycamel/PyMyLabel
+
 ## Requirements:
 - Visual Studio 2017
 - Qt5.12.3
